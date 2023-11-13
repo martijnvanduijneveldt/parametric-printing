@@ -6,4 +6,5 @@ Instead of the classical cube format, it's in the shape of a disc instead, so yo
 
 The top label is attached to the circle using a thin connection that can easily be removed.
 
+## Pictures
 ![Screenshot](calibration_disc.png)
